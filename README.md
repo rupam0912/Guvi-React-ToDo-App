@@ -13,3 +13,4 @@ React Assignment - Build an advanced version of the Todo List app
 - Optional → Filter priority, filter completion status
 
 visit the live app at: https://oz7s6.csb.app/
+for windows user try it at: https://oz7s6.codesandbox.io/
